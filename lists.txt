@@ -1,2 +1,2 @@
-balanced.txt
-broken.txt
+balanced.txt Characters judged to be balanced against each other
+broken.txt Mods known to not work
