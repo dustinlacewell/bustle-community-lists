@@ -7,10 +7,12 @@ assignees: ''
 
 ---
 
-# What unifies the characters on this list?
+# What unifies the mods on this list?
 
-Every character...
+Every mod...
 
 # Why should everyone be invested in maintaining this list?
 
 Because it will help...
+
+# What are a couple examples of mods that might be on this list, and what makes them good candidates?
