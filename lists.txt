@@ -1,2 +1,3 @@
 balanced.txt Characters judged to be balanced against each other
 broken.txt Mods known to not work
+mountain.txt Characters legal in Modded Mountain prize tournaments
