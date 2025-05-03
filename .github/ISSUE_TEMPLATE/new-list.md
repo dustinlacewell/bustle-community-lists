@@ -1,7 +1,7 @@
 ---
-name: 'New List: $ListName'
+name: New List
 about: Suggest the creation of a new list.
-title: ''
+title: 'New List: $ListName'
 labels: ''
 assignees: ''
 
